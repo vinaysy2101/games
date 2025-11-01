@@ -738,5 +738,8 @@ function openGame(g){
 window.showMenu = showMenu;
 
 </script>
+<p>
+  <h1>hello everyone</h1>
+</p>
 </body>
 </html>
